@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform linux -- Python 3.10.12, pytest-8.0.0, pluggy-1.4.0
+rootdir: /mnt/d/GeekBrains/Unit_test
+collected 2 items
+
+app/test_average_calculator.py ..                                        [100%]
+
+============================== 2 passed in 0.06s ===============================

@@ -1,0 +1,6 @@
+Name                             Stmts   Miss  Cover   Missing
+--------------------------------------------------------------
+app/average_calculator.py           13      0   100%
+app/test_average_calculator.py      11      0   100%
+--------------------------------------------------------------
+TOTAL                               24      0   100%

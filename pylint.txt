@@ -1,0 +1,8 @@
+************* Module average_calculator
+app/average_calculator.py:33:0: C0304: Final newline missing (missing-final-newline)
+app/average_calculator.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+app/average_calculator.py:28:8: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 7.69/10 (previous run: 7.69/10, +0.00)
+
